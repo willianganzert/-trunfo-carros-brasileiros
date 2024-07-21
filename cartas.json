@@ -1,0 +1,142 @@
+[
+    {
+        "nome": "Fiat Strada",
+        "potencia": 109,
+        "velocidade_maxima": 160,
+        "preco": 88000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Hyundai HB20",
+        "potencia": 120,
+        "velocidade_maxima": 190,
+        "preco": 85000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Volkswagen Polo",
+        "potencia": 128,
+        "velocidade_maxima": 200,
+        "preco": 95000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Chevrolet Onix",
+        "potencia": 116,
+        "velocidade_maxima": 187,
+        "preco": 80000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "BYD Dolphin",
+        "potencia": 204,
+        "velocidade_maxima": 160,
+        "preco": 220000,
+        "tipo": "eletrico"
+    },
+    {
+        "nome": "BYD Yuan Plus",
+        "potencia": 204,
+        "velocidade_maxima": 160,
+        "preco": 235800,
+        "tipo": "eletrico"
+    },
+    {
+        "nome": "Hyundai Creta",
+        "potencia": 130,
+        "velocidade_maxima": 185,
+        "preco": 120000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Toyota Corolla Cross",
+        "potencia": 170,
+        "velocidade_maxima": 180,
+        "preco": 180000,
+        "tipo": "hibrido"
+    },
+    {
+        "nome": "Chevrolet Tracker",
+        "potencia": 133,
+        "velocidade_maxima": 200,
+        "preco": 130000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Jeep Compass",
+        "potencia": 170,
+        "velocidade_maxima": 202,
+        "preco": 210000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Renault Kwid",
+        "potencia": 70,
+        "velocidade_maxima": 156,
+        "preco": 75000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Volkswagen Saveiro",
+        "potencia": 104,
+        "velocidade_maxima": 180,
+        "preco": 95000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Fiat Mobi",
+        "potencia": 74,
+        "velocidade_maxima": 158,
+        "preco": 65000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Toyota Hilux",
+        "potencia": 204,
+        "velocidade_maxima": 180,
+        "preco": 250000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Honda HR-V",
+        "potencia": 173,
+        "velocidade_maxima": 200,
+        "preco": 150000,
+        "tipo": "hibrido"
+    },
+    {
+        "nome": "Peugeot 208",
+        "potencia": 130,
+        "velocidade_maxima": 188,
+        "preco": 98000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Caoa Chery Tiggo 5X",
+        "potencia": 150,
+        "velocidade_maxima": 185,
+        "preco": 120000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Renault Duster",
+        "potencia": 120,
+        "velocidade_maxima": 171,
+        "preco": 110000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "Ford Ranger",
+        "potencia": 200,
+        "velocidade_maxima": 180,
+        "preco": 240000,
+        "tipo": "combustao"
+    },
+    {
+        "nome": "BYD Seal",
+        "potencia": 530,
+        "velocidade_maxima": 250,
+        "preco": 299800,
+        "tipo": "eletrico"
+    }
+]
